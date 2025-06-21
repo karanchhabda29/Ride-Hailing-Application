@@ -4,7 +4,6 @@ import com.karan.project.ride.rideHailingApp.dto.DriverDto;
 import com.karan.project.ride.rideHailingApp.dto.RideDto;
 import com.karan.project.ride.rideHailingApp.dto.RideRequestDto;
 import com.karan.project.ride.rideHailingApp.dto.RiderDto;
-import com.codingshuttle.project.uber.uberApp.entities.*;
 import com.karan.project.ride.rideHailingApp.entities.*;
 import com.karan.project.ride.rideHailingApp.entities.enums.RideRequestStatus;
 import com.karan.project.ride.rideHailingApp.entities.enums.RideStatus;

@@ -11,7 +11,6 @@ import com.karan.project.ride.rideHailingApp.entities.enums.RideRequestStatus;
 import com.karan.project.ride.rideHailingApp.entities.enums.RideStatus;
 import com.karan.project.ride.rideHailingApp.exceptions.ResourceNotFoundException;
 import com.karan.project.ride.rideHailingApp.repositories.DriverRepository;
-import com.codingshuttle.project.uber.uberApp.services.*;
 import com.karan.project.ride.rideHailingApp.services.*;
 import lombok.RequiredArgsConstructor;
 import org.modelmapper.ModelMapper;

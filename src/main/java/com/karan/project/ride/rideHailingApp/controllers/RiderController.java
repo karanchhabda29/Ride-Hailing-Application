@@ -1,6 +1,5 @@
 package com.karan.project.ride.rideHailingApp.controllers;
 
-import com.codingshuttle.project.uber.uberApp.dto.*;
 import com.karan.project.ride.rideHailingApp.dto.*;
 import com.karan.project.ride.rideHailingApp.services.RiderService;
 import lombok.RequiredArgsConstructor;
